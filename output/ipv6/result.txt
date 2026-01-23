@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-22 06:49:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-24 06:40:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -774,7 +774,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江经济生活,http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
@@ -1736,6 +1735,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=fceb1726ee943a82a3cd774026abb877&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=60909b2fa85c2414a8bb01ed5be39c59&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=9577a9b3a51ab113ae8b3fdf47970212&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=68c3e51c45b4379da24c651ff76396f4&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=c93b96ce8e95135c6612600d3860e1ed&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=e153367b35bf230af1f5d5ffaf152439&id=hn_jjpd&type=sz
@@ -1743,6 +1743,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=315ad4939096a91be5ce3462b2080323&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=2aa086d57fcaab0b7c101e7b1794e085&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=a76a64fccf4619fe533b78bc86334f12&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=72e711eb1a300c340c663a759fbe976d&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1752,6 +1753,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=718522a0446276965260cb4bdb882b94&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=9d1e4be9490ca4a3ef3185d3f6da2330&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=3cc830c171d2729cc501392ac8960cba&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=e8e587783277f662464068cea6353be7&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=6baa732712c4272d125ddd04a43f2b32&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=b2f695bef07c2a1ad1268fd47d6078e2&id=hn_sepd&type=sz
@@ -1759,6 +1761,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=0c9220e89aa5bb92fd25dbc47f73c650&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=877581add0a32f467d2b264cc3683102&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=94fbdedd46714cce22095d35dee4d381&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=8f959727493fd8c8dedc12f62921362a&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1768,6 +1771,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=6694c5fed131a81b1f2bb968afc13e99&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=3fdfa2bcdc698f6be6b0f8ca6891133e&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=30e9d617ab9356e39b7cfb3a1d8c5e54&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=9a2a39aa3fa96748320b2afbe3cb2e7a&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -2080,6 +2084,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1768685091&key=885532cf8e3e1c683837ff83e9a85d16
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1768858032&key=c1a5b67a14810a39e9c82efb0e552b84
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1769031284&key=f4edab071a87752422488697be07cd79
+山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1769203711&key=53130036213f251ea12d4ac7e1d68cec
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1745796321&key=5d07585f428e3bbbe66ef7a534c8db1e
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746307365&key=1cf53f641a43923de396153d3e9e40b6
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746393735&key=ef71ca0281e5b344d896cad03a642087
@@ -2089,6 +2094,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1768685091&key=903e7dc8da33c6521f2b456c0956291b
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1768858032&key=c8fc9ae6c3b23e39771c579e4ae276f8
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1769031284&key=885723ce0aeb1c1d6e5664ce545b5d93
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1769203711&key=bcebaa6ed9847ba2daf93b2943a6cf1e
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1745796321&key=71bbd0d7dc1eb84139ebea659e164651
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746307365&key=9694e5e21a889c83c54bbf66c0e524a0
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746393735&key=cf4f8ab07efd070291584465074e9386
@@ -2098,6 +2104,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1768685091&key=1eb0873b8227a8db36cc6d293c37e00e
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1768858032&key=ec8bdd2594208a22d504a1ff630ed728
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1769031284&key=a3bd19dea6841132c639f9d09a4d9349
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1769203711&key=bb0f48e54f51b7d86a03f9eb1b5652c4
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1745796321&key=f20ee9d210e6bb63a4a7d65e67bdec2b
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1746307365&key=9efd994033ee8bd840c01f930811f94a
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1768232013&key=3e84c584098d0bea37809e376be93370
@@ -2106,6 +2113,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1768685091&key=318c2c2b33b1d121348b774707f0d080
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1768858032&key=ff617b8caa6b0ab97176850c32f79cce
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1769031284&key=f66fab6f4e1a6d653286daa0ae09442d
+山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1769203711&key=a633d64f3482bb10711b93e1b8e1e0e8
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
@@ -2130,6 +2138,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1768685091&key=a34db2493e1a74d6b6f2fbbf7685a9a5
 安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1768858032&key=27e233c6ec0a6e45b66297ebb972f194
 安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1769031284&key=fa43256ba251fb972f6e69e7708b2bed
+安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1769203711&key=7c7ded80988509c09f0dffe20172caf1
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-14.m3u8
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-15.m3u8
 安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
@@ -2213,6 +2222,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1768685091&key=4592a4bc966681e66bed32399c0c9249
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1768858032&key=1853cef46a1d1852ea949e89ffe340c5
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1769031284&key=546d82f7e4326788dd223e14189eeda5
+吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1769203711&key=321c035677b1830842360ff5c3f349f6
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1768232013&key=4d131a960adc951b192437a3ccbf4bf2
@@ -2221,6 +2231,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1768685091&key=db77cd5c8d9185d66436c777652b5b65
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1768858032&key=f79cf61668b18c296955a1532e590d8a
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1769031284&key=5641503565e2896b64a076bc91c40741
+吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1769203711&key=48a64314d3a4d3abbe204c1e4013728f
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1745796321&key=b26baf2d67026a93e41fcbbd3f132bc3
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746307365&key=c561c31cdce71c6e8e33914bfc43027f
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746393735&key=9d6ca0a9c59b1876be2ef4320b7283d8
@@ -2230,6 +2241,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1768685091&key=d3c214f1e48ecb4d86b66e0c9701343a
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1768858032&key=56918fe129c1d12a3ffbba90aed776c8
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1769031284&key=44b7caee6ec33b89889983322962a3bb
+吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1769203711&key=66de0b7d04e063b7ae5db2ae42832731
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 珲春新闻综合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8
 
@@ -2249,18 +2261,21 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1768685091&key=401b3247dec8b5d76e66bafe9a7f71ad
 云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1768858032&key=e650c48e68bc85be133fd32d6b778466
 云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1769031284&key=25ef7bc570150b43f56476ea94b943ff
+云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1769203711&key=97d587c08c69ca738798737903b36b5a
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1768232013&key=96734492b2d78e570df742d766b92a97
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1768339722&key=09d53db9fd8ed252844d25bb1dd8ba21
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1768512540&key=f209846d1a1c1929a7450ab619cab0ba
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1768685091&key=41daeb40251a31809f976ce37517c511
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1768858032&key=c02226b565b24023c3f678960c13f65a
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1769031284&key=cab35e5882845d6975b53a020914ed1a
+云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1769203711&key=72b7e4ff27b60273999e54202a79240f
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1768232013&key=cac4da99ae5b864bc79b5665c9b5c2a0
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1768339722&key=eb50f70e7ea7498814a6cffe99adadc2
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1768512540&key=aa3c3cd64b5caaf3b9509702f842f15d
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1768685091&key=7097860e3941ae0ee8e34f61990d0ad8
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1768858032&key=9346d6f8c2d6506049910b5872fc812a
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1769031284&key=168bc4c5228dd3de8d85320e6967c2a1
+云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1769203711&key=b57a3432e728d5da2d50a5c2564c90a6
 
 ☘️青海频道,#genre#
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
@@ -2419,7 +2434,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
